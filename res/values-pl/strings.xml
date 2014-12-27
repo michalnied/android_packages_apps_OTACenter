@@ -17,41 +17,41 @@
 
 <resources>
     <!-- Main strings -->
-    <string name="app_name">OTA Center</string>
-    <string name="menu_settings">Settings</string>
-    <string name="device_title">Device</string>
-    <string name="device_name_title">Name:</string>
-    <string name="codename_title">Codename:</string>
-    <string name="version_title">Version:</string>
-    <string name="file_name_title">File:</string>
-    <string name="curVer">Current Version</string>
+    <string name="app_name">Centrum OTA</string>
+    <string name="menu_settings">Ustawienia</string>
+    <string name="device_title">Urządzenie</string>
+    <string name="device_name_title">Nazwa:</string>
+    <string name="codename_title">Nazwa modelu:</string>
+    <string name="version_title">Wersja:</string>
+    <string name="file_name_title">Plik:</string>
+    <string name="curVer">Aktualna wersja</string>
     <string name="ok">OK</string>
-    <string name="title_update">Update</string>
-    <string name="device_info_title">Device Information</string>
-    <string name="up_to_date_title">Your system is up to date</string>
-    <string name="no_data_title">No data connection available</string>
-    <string name="error_reading_title">Cannot read properties</string>
-    <string name="update_file_title">Update:</string>
-    <string name="reboot">All done! Reboot your device now.</string>
-    <string name="reboot_ok">Reboot now</string>
-    <string name="reboot_cancel">Don\'t reboot</string>
-    <string name="refresh_button">Refresh</string>
+    <string name="title_update">Aktualizuj</string>
+    <string name="device_info_title">Informacje o urządzeniu</string>
+    <string name="up_to_date_title">Twój system jet aktualny</string>
+    <string name="no_data_title">Brak połączenia</string>
+    <string name="error_reading_title">Nie można odczytać właściwości aktualizacji</string>
+    <string name="update_file_title">Aktualizacja:</string>
+    <string name="reboot">Gotowe! Teraz uruchom urządzenie ponownie.</string>
+    <string name="reboot_ok">Uruchom ponownie teraz</string>
+    <string name="reboot_cancel">Nie uruchamiaj ponownie</string>
+    <string name="refresh_button">Odśwież</string>
 
     <!-- Settings -->
-    <string name="settings_title">OTA Settings</string>    
-    <string name="update_interval_title">Automatic update check interval</string>
-    <string name="update_interval_summary">Set automatic update check interval</string>
-    <string name="update_interval_day">Every 24 hours</string>
-    <string name="update_interval_half_day">Every 12 hours</string>
-    <string name="update_interval_hour">Every hour</string>
-    <string name="update_interval_disable">Disable</string>
+    <string name="settings_title">Ustawienia OTA</string>    
+    <string name="update_interval_title">Automatycznie sprawdzaj dostępność aktualizacji</string>
+    <string name="update_interval_summary">Sprawdź dostępność aktualizacji</string>
+    <string name="update_interval_day">Co 24 godziny</string>
+    <string name="update_interval_half_day">Co 12 godzin</string>
+    <string name="update_interval_hour">Co godzinęr</string>
+    <string name="update_interval_disable">Wyłączone</string>
 
     <!-- Error messages -->
-    <string name="system_prop_error">Cannot read system properties</string>
-    <string name="bad_url">Unable to get to download area.\nPlease inform your device maintainer!</string>
-    <string name="menu_update">Look for Updates now</string>
-    <string name="toast_text">Looking for updates, please wait.</string>
-    <string name="toast_no_data_text">No data connection. Please turn on</string>
+    <string name="system_prop_error">Nie można odczytać właściwości systemu</string>
+    <string name="bad_url">Nie można pobrać aktualizacji.\nProszę poinformować dostawcę urządzenia!</string>
+    <string name="menu_update">Sprawdź dostępność aktualizacji</string>
+    <string name="toast_text">Szukanie aktualizacji, proszę czekać.</string>
+    <string name="toast_no_data_text">Brak połączenia. Włącz je i spróbuj ponownie</string>
 
     <!-- Shortcut fragment -->
     <string name="short_cut_release_title">ROM related</string>
