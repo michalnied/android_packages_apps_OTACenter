@@ -43,7 +43,7 @@
     <string name="update_interval_summary">Sprawdź dostępność aktualizacji</string>
     <string name="update_interval_day">Co 24 godziny</string>
     <string name="update_interval_half_day">Co 12 godzin</string>
-    <string name="update_interval_hour">Co godzinęr</string>
+    <string name="update_interval_hour">Co godzinę</string>
     <string name="update_interval_disable">Wyłączone</string>
 
     <!-- Error messages -->
@@ -56,7 +56,7 @@
     <!-- Shortcut fragment -->
     <string name="short_cut_release_title">Informacje o systemie</string>
     <string name="short_cut_changelog_title">Lista zmian</string>
-    <string name="short_cut_changelog_summary_update_available">Ważne!!! Przeczytaj dokłanie listę zmian</string>
+    <string name="short_cut_changelog_summary_update_available">Ważne!!! Przeczytaj dokładnie listę zmian</string>
     <string name="short_cut_download_summary_update_available">Dostępna nowa aktualizacja, kliknij, aby pobrać!</string>
     <string name="short_cut_changelog_summary">Zobacz listę zmian</string>
     <string name="short_cut_additional_title">Dodatkowe</string>
@@ -82,52 +82,52 @@
 
     <!-- About -->
     <string name="googleplus_title">Google+</string>
-    <string name="googleplus_summary">Visit the Google+ community</string>
+    <string name="googleplus_summary">Odwiedź społeczność Google+</string>
     <string name="xda_title">XDA</string>
     <string name="xda_summary">Odwiedź wątek na XDA</string>
     <string name="about_title">O</string>
-    <string name="devs">Programista</string>
+    <string name="devs">Programistach</string>
     <string name="website_title">Strona internetowa</string>
     <string name="website_summary">Znajdź tutaj wszystkie ostatnie wiadomości</string>
     <string name="donate_title">Podaruj</string>
     <string name="donate_summary">Podaruj</string>
     <string name="source_title">Źródło</string>
     <string name="source_summary">github.com/euphoria-os</string>
-    <string name="center_summary"><b>Centrum OTA</b> zapewnia narzędzia &amp; i informacje, aby Twoje doświadczenia z Euphoria-OS były jeszcze lepsze. Uaktualnij do najnowszej wersji naszego systemu z <b>Centrum OTA</b>.</string>
+    <string name="center_summary"><b>Centrum OTA</b> zapewnia narzędzia &amp; i informacje, które sprawią, że Twoje doświadczenia z Euphoria-OS będą jeszcze lepsze. Uaktualnij do najnowszej wersji naszego systemu z <b>Centrum OTA</b>.</string>
     <string name="bugreport_title">Zgłoś błąd</string>
     <string name="bugreport_summary">Stwórz raport o błędach</string>
-    <string name="report_infosuccess">Created a system report, provide it to Euphoria-OS. You can find the Zip file on your SD-Card in a directory called \"BugReport\".</string>
-    <string name="report_infofail">Failed to create Bugreport, please try again.</string>
+    <string name="report_infosuccess">Utworzono raport systemu, wyślij go do Euphoria-OS. Możesz znaleźć plik ZIP na swojej karcie SD w katalogu o nazwie \"BugReport\".</string>
+    <string name="report_infofail">Nie udało się utworzyć raportu o błędach, spróbuj ponownie.</string>
 
     <string name="about_home_url"><a href="http://mahdi-rom.com/">Euphoria-OS</a></string>
-    <string name="about_ota">OTACenter allows you to easily manage\n your ROM!</string>
+    <string name="about_ota">Centrum OTA pozwoli ci łatwo zarządzać twoim ROM-em!</string>
     <string name="about_copyright">\u00A9 Copyright Slimroms 2013 modifed for Euphoria-OS</string>
-    <string name="about_version">OTACenter 2.0</string>
-    <string name="about_contact">Contact us at Mahdi.Rom@gmail.com</string>
-    <string name="about_contact_text">Tell us what you think\nor let us know about a bug or problem</string>
-    <string name="about_license">Open source licenses</string>
-    <string name="about_license_text">OTACenter app:</string>
+    <string name="about_version">Centrum OTA 2.0</string>
+    <string name="about_contact">Skontaktuj się z nami pod adresem Mahdi.Rom@gmail.com</string>
+    <string name="about_contact_text">Powiedz nam, co myślisz\daj znać o błędzie lub problemie</string>
+    <string name="about_license">Licencja open source</string>
+    <string name="about_license_text">Aplikacja Centrum OTA:</string>
     <string name="about_license_url"><a href="http://otaslim.slimroms.net/license.htm">gpl(2)</a></string>
 
     <!-- Sizer  -->
-    <string name="listsystem">list</string>
-    <string name="sizer_title">System Apps</string>
-    <string name="caution">Caution!</string>
-    <string name="sizer_message_startup">This tool allows you to delete system apps. Use with caution and only delete apps you know are safe to be removed.</string>
-    <string name="cancel">Cancel</string>
-    <string name="sizer_message_delete">Are you sure you want to delete this app?</string>
-    <string name="sizer_message_delete_multi_one">Are you sure you want to delete selected app?</string>
-    <string name="sizer_message_delete_multi">Are you sure you want to delete selected apps?</string>
-    <string name="btn_delete">Delete selected APPs now!</string>
-    <string name="delete_progress_title">Deleting</string>
-    <string name="delete_progress">Selected files are being deleted, please wait.</string>
-    <string name="delete_success">Deleted</string>
-    <string name="delete_fail">Unable to delete</string>
-    <string name="btn_profile">Profile</string>
-    <string name="sizer_message_sdnowrite">Cannot write to SD Card.</string>
-    <string name="sizer_message_sdnoread">Cannot read SD Card.</string>
-    <string name="sizer_message_filesuccess">Created profile.</string>
-    <string name="sizer_message_filefail">Failed to create profile.</string>
-    <string name="sizer_message_noselect">Nothing selected.</string>
-    <string name="ota_title">Updater</string>
+    <string name="listsystem">lista</string>
+    <string name="sizer_title">Aplikacje systemowe</string>
+    <string name="caution">Uwaga!</string>
+    <string name="sizer_message_startup">usuwaj tylko te aplikacje, o których wiesz, że ich usunięcie jest bezpieczne.</string>
+    <string name="cancel">Anuluj</string>
+    <string name="sizer_message_delete">Czy jesteś pewny, że chcesz usunąć tę aplikację?</string>
+    <string name="sizer_message_delete_multi_one">Czy jesteś pewny, że chcesz usunąć zaznaczoną aplikację?</string>
+    <string name="sizer_message_delete_multi">Czy jesteś pewny, że chcesz usunąć zaznaczone aplikacje?</string>
+    <string name="btn_delete">Usuń teraz zaznaczone aplikacje!</string>
+    <string name="delete_progress_title">Usuwanie</string>
+    <string name="delete_progress">Zaznaczone pliki są usuwane, proszę czekać.</string>
+    <string name="delete_success">Usunięto</string>
+    <string name="delete_fail">Nie można usunąć</string>
+    <string name="btn_profile">Profil</string>
+    <string name="sizer_message_sdnowrite">Nie można zapisać na karcie SD.</string>
+    <string name="sizer_message_sdnoread">Nie można odczytać karty SD.</string>
+    <string name="sizer_message_filesuccess">Utworzono profil.</string>
+    <string name="sizer_message_filefail">Nie udało się utworzyć profilu.</string>
+    <string name="sizer_message_noselect">Nic nie zostało wybrane.</string>
+    <string name="ota_title">Aktualizator</string>
 </resources>
