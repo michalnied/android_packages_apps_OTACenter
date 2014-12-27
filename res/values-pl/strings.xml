@@ -54,20 +54,20 @@
     <string name="toast_no_data_text">Brak połączenia. Włącz je i spróbuj ponownie</string>
 
     <!-- Shortcut fragment -->
-    <string name="short_cut_release_title">ROM related</string>
-    <string name="short_cut_changelog_title">Changelog</string>
-    <string name="short_cut_changelog_summary_update_available">Important!!! Read changelog carefully</string>
-    <string name="short_cut_download_summary_update_available">New update available, click to download!</string>
-    <string name="short_cut_changelog_summary">View the changelog</string>
-    <string name="short_cut_additional_title">Additional</string>
+    <string name="short_cut_release_title">Informacje o systemie</string>
+    <string name="short_cut_changelog_title">Lista zmian</string>
+    <string name="short_cut_changelog_summary_update_available">Ważne!!! Przeczytaj dokłanie listę zmian</string>
+    <string name="short_cut_download_summary_update_available">Dostępna nowa aktualizacja, kliknij, aby pobrać!</string>
+    <string name="short_cut_changelog_summary">Zobacz listę zmian</string>
+    <string name="short_cut_additional_title">Dodatkowe</string>
     <string name="short_cut_faq_title">FAQ</string>
-    <string name="short_cut_faq_summary">Coming Soon!</string>
-    <string name="short_cut_news_title">News</string>
-    <string name="short_cut_news_summary">Read about latest news</string>
-    <string name="short_cut_download_title">Download</string>
-    <string name="short_cut_download_uptodate_summary">Download the latest version</string>
-    <string name="short_cut_download_gapps_title">Gapps</string>
-    <string name="short_cut_download_gapps_summary">Download latest Gapps package</string>
+    <string name="short_cut_faq_summary">Wkrótce!</string>
+    <string name="short_cut_news_title">Informacje</string>
+    <string name="short_cut_news_summary">Przeczytaj najnowsze informacje</string>
+    <string name="short_cut_download_title">Pobierz</string>
+    <string name="short_cut_download_uptodate_summary">Pobierz najnowszą wersję</string>
+    <string name="short_cut_download_gapps_title">Gapps-y</string>
+    <string name="short_cut_download_gapps_summary">Pobierz najnowszą paczkę Gapps</string>
 
     <!-- URL's -->
     <string name="download_url">https://www.androidfilehost.com/?w=devices&amp;uid=23329332407589188</string>
@@ -78,24 +78,24 @@
 
     <!-- Update checker -->
     <string name="xml_url_kitkat">http://euphoria-os.ninja/ota/ota_file.xml</string>
-    <string name="notification_message">ROM update available</string>
+    <string name="notification_message">Dostępna aktualizacja systemu</string>
 
     <!-- About -->
     <string name="googleplus_title">Google+</string>
     <string name="googleplus_summary">Visit the Google+ community</string>
     <string name="xda_title">XDA</string>
-    <string name="xda_summary">Visit the XDA thread</string>
-    <string name="about_title">About</string>
-    <string name="devs">Developer</string>
-    <string name="website_title">Website</string>
-    <string name="website_summary">Find all latest news here</string>
-    <string name="donate_title">Donate</string>
-    <string name="donate_summary">Donate</string>
-    <string name="source_title">Source</string>
+    <string name="xda_summary">Odwiedź wątek na XDA</string>
+    <string name="about_title">O</string>
+    <string name="devs">Programista</string>
+    <string name="website_title">Strona internetowa</string>
+    <string name="website_summary">Znajdź tutaj wszystkie ostatnie wiadomości</string>
+    <string name="donate_title">Podaruj</string>
+    <string name="donate_summary">Podaruj</string>
+    <string name="source_title">Źródło</string>
     <string name="source_summary">github.com/euphoria-os</string>
-    <string name="center_summary"><b>OTACenter</b> provides tools &amp; information to help make your experience with Euphoria-OS even better. Upgrade to the newest version of our ROM with <b>OTACenter</b>.</string>
-    <string name="bugreport_title">Bugreport</string>
-    <string name="bugreport_summary">Create a complete bugreport</string>
+    <string name="center_summary"><b>Centrum OTA</b> zapewnia narzędzia &amp; i informacje, aby Twoje doświadczenia z Euphoria-OS były jeszcze lepsze. Uaktualnij do najnowszej wersji naszego systemu z <b>Centrum OTA</b>.</string>
+    <string name="bugreport_title">Zgłoś błąd</string>
+    <string name="bugreport_summary">Stwórz raport o błędach</string>
     <string name="report_infosuccess">Created a system report, provide it to Euphoria-OS. You can find the Zip file on your SD-Card in a directory called \"BugReport\".</string>
     <string name="report_infofail">Failed to create Bugreport, please try again.</string>
 
