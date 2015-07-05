@@ -28,7 +28,7 @@
     <string name="ok">OK</string>
     <string name="title_update">Aktualizuj</string>
     <string name="device_info_title">Informacje o urządzeniu</string>
-    <string name="up_to_date_title">Twój system jet aktualny</string>
+    <string name="up_to_date_title">Twój system jest aktualny</string>
     <string name="no_data_title">Brak połączenia</string>
     <string name="error_reading_title">Nie można odczytać właściwości aktualizacji</string>
     <string name="update_file_title">Aktualizacja:</string>
